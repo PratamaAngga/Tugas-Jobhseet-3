@@ -8,6 +8,6 @@ This program is a temperature conversion calculator. It supports conversions to 
 
 ## Documentation - Hasil/Output Konverter Suhu
 
-![Output part 1](http://github.com/PratamaAngga/Tugas-Jobhseet-3/blob/main/Docs/Output%201.jpg)
+![Output part 1](https://github.com/PratamaAngga/Tugas-Jobhseet-3/blob/main/Docs/Output%201.jpg)
 
 ![Output part 2](https://github.com/PratamaAngga/Tugas-Jobhseet-3/blob/main/Docs/Output%202.jpg)
