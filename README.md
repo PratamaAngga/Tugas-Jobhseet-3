@@ -6,6 +6,10 @@ This program is a temperature conversion calculator. It supports conversions to 
 2. Temperature converter
 3. History
 
+## Authors
+
+- [@PratamaAngga](https://github.com/PratamaAngga) Pratama Angga Saputra / SIB 2 G / 244107060113
+
 ## Documentation - Hasil/Output Konverter Suhu
 
 ![Output part 1](https://github.com/PratamaAngga/Tugas-Jobhseet-3/blob/main/Docs/Output%201.jpg)
